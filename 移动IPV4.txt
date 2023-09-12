@@ -1,18 +1,12 @@
-
 ﻿4K电视,#genre#
-
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-
 CCTV16 4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-
 IPTV-4K,http://home.111818.xyz:8888/udp/239.76.252.35:9000
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-
 华数电影4K,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 华数电影4K,http://111.40.196.29/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
 华数电影4K,http://111.40.196.30/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
@@ -30,13 +24,9 @@ IPTV-4K,http://home.111818.xyz:8888/udp/239.76.252.35:9000
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Loupe4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 河南戏曲4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
-
 咪咕体育4K,http://120.234.220.107:9000/udp/239.20.0.66:3136
 
-
 央视,#genre#
-
-
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
@@ -160,7 +150,6 @@ CGTN,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000000052
 CGTN,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 CGTN,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 CGTN,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-
 卫视,#genre#
 凤凰卫视资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 凤凰卫视中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
@@ -247,8 +236,6 @@ CGTN,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/0000000100000006000000000000052
 重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 重庆卫视,http://39.134.65.162/PLTV/88888888/224/3221225963/index.m3u8
-
-
 记录,#genre#
 BRTV纪实科教,http://39.134.65.162/PLTV/88888888/224/3221225670/index.m3u8
 BRTV纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
@@ -276,7 +263,6 @@ CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225758/1.m3u
 爱探索,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 
 电影,#genre#
-
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -286,6 +272,9 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226462/in
 CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+FGTV,http://mmitv.top/pltv/source.php?id=wzdst-fgtv&token=afbed9120109
+HSTV,http://mmitv.top/pltv/source.php?id=wzdst-hstv&token=a0bb403423bd
+LYTV,http://mmitv.top/pltv/source.php?id=wzdst-lytv&token=deb27b627dde
 NewTV超级电视剧,http://39.134.65.162/PLTV/88888888/224/3221225637/index.m3u8
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225716/index.m3u8
 NewTV超级电影,http://39.134.65.162/PLTV/88888888/224/3221225644/index.m3u8
