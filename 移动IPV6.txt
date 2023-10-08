@@ -59,17 +59,12 @@ CCTV16-4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index
 4K电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K电影,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K电影,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-4K电影,http://xuweihome.vip:2222/udp/239.253.248.102:8000
-4K乐享超清,http://222.209.244.139:8188/udp/239.93.0.43:5140
-绚影4K,http://222.209.244.139:8188/udp/239.93.42.33:5140
-亲子趣学4k,http://222.209.244.139:8188/udp/239.93.1.191:5140
-津津悦读4K,http://222.209.244.139:8188/udp/239.93.1.197:5140
-中录动漫4K,http://222.209.244.139:8188/udp/239.93.1.188:5140
+
 
 广东4K超高清,https://php.17186.eu.org/gdtv/web/gdzy.m3u8
 4K超高清电影,http://r.jdshipin.com/5DWJk
 4K超高清电影,http://159.75.85.63:5681/sxg.php
-精彩连播,http://222.209.244.139:8188/udp/239.93.1.156:5140
+
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
