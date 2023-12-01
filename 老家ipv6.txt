@@ -835,8 +835,8 @@ CITY都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694
 郑州都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 邯郸,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
 邯郸,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
-清丰 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226352/index.m3u8
-清丰 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
+清丰,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226352/index.m3u8
+清丰,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226580/index.m3u8
 南乐县综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227096/index.m3u8
 安阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 安阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
@@ -850,11 +850,11 @@ CITY都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
-郸城综合 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
+郸城综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
 登封电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226497/index.m3u8
 登封电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226661/index.m3u8
-邓州综合 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226348/index.m3u8
-邓州综合 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8
+邓州综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226348/index.m3u8
+邓州综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8
 定格,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
 定格,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226623/index.m3u8
 封丘县电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226346/index.m3u8
@@ -919,7 +919,7 @@ CITY都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694
 杞县新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8
 内黄综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226356/index.m3u8
 内黄综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-汝阳综合 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
+汝阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
 三门峡新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226381/index.m3u8
 三门峡新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 商丘公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226539/index.m3u8
@@ -934,8 +934,8 @@ CITY都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694
 浉河广电中心,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226651/index.m3u8
 书法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
 书法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226698/index.m3u8
-嵩县综合新闻 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
-嵩县综合新闻 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226672/index.m3u8
+嵩县综合新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
+嵩县综合新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226672/index.m3u8
 唐河电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227063/index.m3u8
 天元围棋,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 天元围棋,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226607/index.m3u8
@@ -957,8 +957,8 @@ CITY都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694
 新乡电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
 新乡公共576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
 新乡公共576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226667/index.m3u8
-新乡县 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
-新乡县 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8
+新乡县,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
+新乡县,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8
 新郑电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
 新郑电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226577/index.m3u8
 信阳教育台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226518/index.m3u8
