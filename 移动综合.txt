@@ -1,14 +1,14 @@
 1超清,#genre#
-CCTV 8K,http://[2409:8087:2801:22:100::39]/wh7f454c46tw100471980_590429102/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8?icpid=88888888&RTS=1718025673&from=5&hms_devid=1750&online=1718025673&vqe=3
-CCTV-4K,http://[2409:8087:2801:22:100::48]/wh7f454c46tw401577176_1292620218/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1718025974&from=5&ocs=2_2409:8087:2801:22:100::40_80&hms_devid=1641&online=1718025974&vqe=3
+CCTV 8K,http://[2409:8087:2801:22:100::39]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
+CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
+CCTV-4K,http://[2409:8087:2801:22:100::48]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1718025974&from=5&ocs=2_2409:8087:2801:22:100::40_80&hms_devid=1641&online=1718025974&vqe=3
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 欢笑剧场 4K,http://[2409:8087:2801:22:100::39]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
 求索记录 4K,http://[2409:8087:2801:22:100::39]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/396328931.smil/index.m3u8?fmt=ts2hls
-河南卫视4K,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-河南卫视4K,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-河南卫视4K,http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河南卫视4K,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226344/index.m3u8?servicetype=1
 河南卫视4K,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226526/index.m3u8?servicetype=1
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300
