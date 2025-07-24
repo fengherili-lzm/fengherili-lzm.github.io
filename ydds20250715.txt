@@ -1,5 +1,4 @@
 4K频道,#genre#
-
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:2c]/wh7f454c46tw2741971083_-548472789/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8?icpid=88888888&RTS=1743922672&from=14&hms_devid=17317&online=1743922672&vqe=3
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:4a]/wh7f454c46tw2772516811_-771536331/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8?icpid=88888888&RTS=1743922703&from=14&hms_devid=18068&online=1743922703&vqe=3
 CCTV-4K,http://[2409:8087:4402:20:1:1216:401:10]/wh7f454c46tw2654404992_623946036/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&RTS=1743922585&from=14&hms_devid=18113&prioritypopid=14&online=1743922585&vqe=3
@@ -7,18 +6,21 @@ CCTV-4K,http://[2409:8087:4422:20:1:0:1000:17]/wh7f454c46tw2704631586_1693722308
 北京卫视4K,http://[2409:8087:4422:20:1:0:2000:4c]/wh7f454c46tw2542362976_-1213878207/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8?icpid=88888888&RTS=1743922473&from=14&hms_devid=18066&online=1743922473&vqe=3
 北京卫视4K,http://[2409:8087:4422:20:1:0:2000:c]/wh7f454c46tw3628291201_-647666347/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8?icpid=88888888&RTS=1743923559&from=14&hms_devid=2724&online=1743923559&vqe=3
 北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743924357&sign=0b55d6892afc30bfc0dc6403ac8fb48d
-北京4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 河南卫视4K,http://[2409:8087:4402:20:1:1216:401:39]/wh7f454c46tw2831223665_1073646165/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8?icpid=88888888&RTS=1743922762&from=14&hms_devid=18453&prioritypopid=14&online=1743922762&vqe=3
 河南卫视4K,http://[2409:8087:4422:20:1:0:1000:21]/wh7f454c46tw2871275520_742654875/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1743922802&from=14&hms_devid=6504&online=1743922802&vqe=3
 欢笑剧场4K,http://[2409:8087:4402:20:1:1216:401:15]/wh7f454c46tw2911604539_-28680746/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8?icpid=88888888&RTS=1743922842&from=14&hms_devid=18116&prioritypopid=14&online=1743922842&vqe=3
 欢笑剧场4K,http://[2409:8087:4422:20:1:0:1000:a]/wh7f454c46tw2974780605_1647154959/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8?icpid=88888888&RTS=1743922905&from=14&ocs=2_2409:8087:4422:20:1:0:2000:37_80&hms_devid=10724&online=1743922905&vqe=3
 探索记录4K,http://[2409:8087:4422:20:1:0:1000:1c]/wh7f454c46tw3014515624_399237321/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8?icpid=88888888&RTS=1743922945&from=14&hms_devid=6484&online=1743922945&vqe=3
-咪咕视频4K,http://39.134.65.141/PLTV/88888888/224/3221225651/1.m3u8
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-4K放大镜,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+黑龙江移动,#genre#
+咪咕4K,http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
+咪咕4K,http://39.134.65.141/PLTV/88888888/224/3221225651/1.m3u8
+中国移动4K,http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
+LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+FASHION4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
 央视,#genre#
 
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
