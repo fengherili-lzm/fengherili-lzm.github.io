@@ -4,6 +4,8 @@ CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:2c]/wh7f454c46tw2741971083_-548472789/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8?icpid=88888888&RTS=1743922672&from=14&hms_devid=17317&online=1743922672&vqe=3
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:4a]/wh7f454c46tw2772516811_-771536331/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8?icpid=88888888&RTS=1743922703&from=14&hms_devid=18068&online=1743922703&vqe=3
+CCTV16-4K,http://home.kaijuns.cn:4000/rtp/239.121.4.122:8008
+
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
 北京卫视4K,http://[2409:8087:4422:20:1:0:2000:4c]/wh7f454c46tw2542362976_-1213878207/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8?icpid=88888888&RTS=1743922473&from=14&hms_devid=18066&online=1743922473&vqe=3
