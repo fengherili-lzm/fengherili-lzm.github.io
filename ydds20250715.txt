@@ -230,6 +230,7 @@ SiTV欢笑剧场,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobil
 开国大典,https://txmov2.a.kwimgs.com/upic/2023/02/13/16/BMjAyMzAyMTMxNjQ3MDVfNzM5MzQzNzIyXzk2MTM0MjQxMTA3XzBfMw==_b_B7d2ca994a56de18f37a0b61554ef71ba.mp4
 
 港澳台,#genre#
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 CNA新闻[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 GOODTV卡通[1280x720],https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 半岛新闻[1280x720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8
