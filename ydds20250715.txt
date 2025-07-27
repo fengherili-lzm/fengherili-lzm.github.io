@@ -203,8 +203,14 @@ CCTV-9纪录,http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.co
 乐游,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
 求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+求索地球,http://ygbh.site/php/bfgd.php?id=286
+求索地球,http://ygbh.site/php/bfgd.php?id=287
+求索地球,http://ygbh.site/php/bfgd.php?id=288
 金鹰纪实,http://1.180.2.93:9901/tsfile/live/1028_1.m3u8
 北京纪实科教,http://1.180.2.93:9901/tsfile/live/1061_1.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
+
 影视,#genre#
 CCTV-6,http://[2409:8087:4400:20:1:70f:1011:1a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
 CCTV-6,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
@@ -297,7 +303,6 @@ NewTV金牌综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225666
 睛彩少年,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226508
 黑莓动画,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225662
 黑莓电影,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225743
-
 阿里郎电视 720,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/1.m3u8
 金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
