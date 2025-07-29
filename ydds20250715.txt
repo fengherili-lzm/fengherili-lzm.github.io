@@ -4,6 +4,7 @@ CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:2c]/wh7f454c46tw2741971083_-548472789/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8?icpid=88888888&RTS=1743922672&from=14&hms_devid=17317&online=1743922672&vqe=3
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:4a]/wh7f454c46tw2772516811_-771536331/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8?icpid=88888888&RTS=1743922703&from=14&hms_devid=18068&online=1743922703&vqe=3
+CCTV16-4K,http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
 CCTV16-4K,http://home.kaijuns.cn:4000/rtp/239.121.4.122:8008
 
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
@@ -24,6 +25,7 @@ CCTV16-4K,http://home.kaijuns.cn:4000/rtp/239.121.4.122:8008
 咪咕4K,http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
 中国移动4K,http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?
 LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 FASHION4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -267,6 +269,12 @@ GOODTV卡通[1280x720],https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 台湾番薯音乐台[1920x1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 新加坡国际[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
+
 
 综艺,#genre#
 NewTV东北热剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225741
