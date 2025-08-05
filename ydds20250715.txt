@@ -16,14 +16,14 @@ CCTV16-4K,http://home.kaijuns.cn:4000/rtp/239.121.4.122:8008
 河南卫视4K,http://[2409:8087:4422:20:1:0:1000:21]/wh7f454c46tw2871275520_742654875/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1743922802&from=14&hms_devid=6504&online=1743922802&vqe=3
 广东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
 深圳卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
+河北卫视4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 欢笑剧场4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 欢笑剧场4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8?icpid=88888888&RTS=1743922905&from=14&ocs=2_2409:8087:4422:20:1:0:2000:37_80&hms_devid=10724&online=1743922905&vqe=3
 欢笑剧场4K,http://[2409:8087:4402:20:1:1216:401:15]/wh7f454c46tw2911604539_-28680746/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8?icpid=88888888&RTS=1743922842&from=14&hms_devid=18116&prioritypopid=14&online=1743922842&vqe=3
 欢笑剧场4K,http://[2409:8087:4422:20:1:0:1000:a]/wh7f454c46tw2974780605_1647154959/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8?icpid=88888888&RTS=1743922905&from=14&ocs=2_2409:8087:4422:20:1:0:2000:37_80&hms_devid=10724&online=1743922905&vqe=3
 求索记录4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
 求索记录4K,http://[2409:8087:4422:20:1:0:1000:1c]/wh7f454c46tw3014515624_399237321/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8?icpid=88888888&RTS=1743922945&from=14&hms_devid=6484&online=1743922945&vqe=3
-咪咕4K,http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
-中国移动4K,http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
+
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?
 LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -616,4 +616,5 @@ SiTV游戏风云,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobil
 中华特产,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 重庆卫视,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 综合频道,http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+
 
