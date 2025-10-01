@@ -4,8 +4,9 @@ CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:2c]/wh7f454c46tw2741971083_-548472789/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8?icpid=88888888&RTS=1743922672&from=14&hms_devid=17317&online=1743922672&vqe=3
 CCTV-4K,http://[2409:8087:4422:20:1:0:2000:4a]/wh7f454c46tw2772516811_-771536331/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8?icpid=88888888&RTS=1743922703&from=14&hms_devid=18068&online=1743922703&vqe=3
-CCTV16-4K,http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
-CCTV16-4K,http://home.kaijuns.cn:4000/rtp/239.121.4.122:8008
+CCTV-16奥林匹克4K,https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WU8PbIuQIhqRNZ66z9G22jjjeL2viuw0Gln&userkey=ac142b1b025c2eab
+CCTV-16奥林匹克4K,http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+CCTV-16奥林匹克4K,http://home.kaijuns.cn:4000/rtp/239.121.4.122:8008
 
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
@@ -666,6 +667,7 @@ SiTV游戏风云,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobil
 中华特产,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 重庆卫视,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 综合频道,http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+
 
 
 
