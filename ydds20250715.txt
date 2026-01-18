@@ -35,7 +35,6 @@ CCTV-4K,http://[2409:8087:4422:20:1:0:2000:4a]/wh7f454c46tw2772516811_-771536331
 北京卫视4k,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视4k,http://106.53.99.30/tv/api.php?id=dfws4k
 深圳卫视4k,http://106.53.99.30/tv/api.php?id=szws4k
-
 📽️央视频道,#genre#
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -703,6 +702,7 @@ SiTV游戏风云,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobil
 郑州影视戏曲,http://[2409:8087:4402:20:1:1216:401:44]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226645/index.m3u8
 中华特产,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 中华特产,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
+
 
 
 
