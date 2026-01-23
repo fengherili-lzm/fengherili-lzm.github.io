@@ -29,9 +29,7 @@ CCTV-4K,http://[2409:8087:4422:20:1:0:2000:4a]/wh7f454c46tw2772516811_-771536331
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 河北卫视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 北京卫视4k,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视4k,http://106.53.99.30/tv/api.php?id=dfws4k
 深圳卫视4k,http://106.53.99.30/tv/api.php?id=szws4k
@@ -501,6 +499,58 @@ CITY都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/index.m3u8
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws&?key=txiptv
+深圳卫视,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+深圳都市,http://nn.7x9d.cn/深圳最新.php?id=szds
+深圳电视剧,http://nn.7x9d.cn/深圳最新.php?id=szdsj
+深圳财经,http://nn.7x9d.cn/深圳最新.php?id=szcj
+深圳少儿,http://nn.7x9d.cn/深圳最新.php?id=szse
+深圳移动,http://nn.7x9d.cn/深圳最新.php?id=szyd
+深圳国际,http://nn.7x9d.cn/深圳最新.php?id=szgj
+石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
+石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
+石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
+1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+河南法治,http://xxwx.yoesun.com/xxw/河南网.php?id=hmfz
+河南都市,http://xxwx.yoesun.com/xxw/河南网.php?id=hnds
+河南电视剧,http://xxwx.yoesun.com/xxw/河南网.php?id=hndsj
+河南公共,http://xxwx.yoesun.com/xxw/河南网.php?id=hngg
+河南梨园,http://xxwx.yoesun.com/xxw/河南网.php?id=hnly
+河南民生,http://xxwx.yoesun.com/xxw/河南网.php?id=hnms
+河南卫视,http://xxwx.yoesun.com/xxw/河南网.php?id=hnws
+河南乡村,http://xxwx.yoesun.com/xxw/河南网.php?id=hnxc
+河南新闻,http://xxwx.yoesun.com/xxw/河南网.php?id=hnxw
+欢腾购物,http://xxwx.yoesun.com/xxw/河南网.php?id=htgw
+睛彩中原,http://xxwx.yoesun.com/xxw/河南网.php?id=jczy
+武术世界,http://xxwx.yoesun.com/xxw/河南网.php?id=wspd
+文物宝库,http://xxwx.yoesun.com/xxw/河南网.php?id=wwbk
+大象视界,http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
+移动戏曲,http://xxwx.yoesun.com/xxw/河南网.php?id=ydxj
+江苏城市,http://xxwx.yoesun.com/xxw/江苏网.php?id=jscs
+江苏国际,http://xxwx.yoesun.com/xxw/江苏网.php?id=jsgj
+江苏教育,http://xxwx.yoesun.com/xxw/江苏网.php?id=jsjy
+江苏体育,http://xxwx.yoesun.com/xxw/江苏网.php?id=jsty
+江苏卫视,http://xxwx.yoesun.com/xxw/江苏网.php?id=jsws
+江苏新闻,http://xxwx.yoesun.com/xxw/江苏网.php?id=jsxw
+江苏影视,http://xxwx.yoesun.com/xxw/江苏网.php?id=jsys
+江苏综艺,http://xxwx.yoesun.com/xxw/江苏网.php?id=jszy
+江苏卡通,http://xxwx.yoesun.com/xxw/江苏网.php?id=ymkt
+西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
+苏州综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州4K台,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+苏州资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+
+
+
+
+
 🎀广播,#genre#
 FM95.5 新闻广播,https://stream.hndt.com/live/xinwen/playlist.m3u8
 FM103.2 经济广播,https://stream.hndt.com/live/jingji/playlist.m3u8
@@ -702,6 +752,7 @@ SiTV游戏风云,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobil
 郑州影视戏曲,http://[2409:8087:4402:20:1:1216:401:44]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226645/index.m3u8
 中华特产,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 中华特产,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
+
 
 
 
