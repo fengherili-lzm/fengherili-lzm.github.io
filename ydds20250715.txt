@@ -387,9 +387,6 @@ CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/
 郑州新闻综合1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226949/1.m3u8?fmt=ts2hls
 郑州新闻综合1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?fmt=ts2hls
 郑州豫剧频道4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?fmt=ts2hls
-
-
-
 安阳文旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227032/1.m3u8?fmt=ts2hls
 安阳新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?fmt=ts2hls
 宝丰电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227102/1.m3u8?fmt=ts2hls
@@ -411,13 +408,11 @@ CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?fmt=ts2hls
 孟津综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227145/1.m3u8?fmt=ts2hls
 孟州综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227160/1.m3u8?fmt=ts2hls
-
 泌阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227149/1.m3u8?fmt=ts2hls
 渑池新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227162/1.m3u8?fmt=ts2hls
 南阳科教2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226829/1.m3u8?fmt=ts2hls
 南阳综合1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226831/1.m3u8?fmt=ts2hls
 内黄综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227115/1.m3u8?fmt=ts2hls
-
 平顶山城市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?fmt=ts2hls
 平顶山公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227036/1.m3u8?fmt=ts2hls
 平顶山新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?fmt=ts2hls
@@ -635,10 +630,6 @@ AYXTV,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227450/1.m3u8?fmt
 宝丰电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227081/index.m3u8
 TQTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227457/index.m3u8
 AYXTV,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227454/index.m3u8
-
-
-
-
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
